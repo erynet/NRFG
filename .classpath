@@ -2,8 +2,23 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry exported="true" kind="lib" path="./lib/mysql-connector-java-5.1.34-bin.jar"/>
-	<classpathentry exported="true" kind="lib" path="./lib/commons-configuration-1.10.jar"/>
-	<classpathentry exported="true" kind="lib" path="./lib/commons-configuration-1.10-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-configuration-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-configuration-1.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-configuration-1.10-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-configuration-1.10-tests.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-configuration-1.10-test-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-configuration2-2.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-configuration2-2.0-alpha1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-codec-1.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-codec-1.10-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-codec-1.10-tests.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-codec-1.10-test-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/NRFG/lib/commons-logging-1.2-javadoc.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
